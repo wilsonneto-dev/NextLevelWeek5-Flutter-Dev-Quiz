@@ -8,9 +8,9 @@
 > Dev Quiz is a simple Quiz app with Flutter builded in the last Rocketseat Next Level week
 
 <p align="center">
-  <img align="center" src="/.github/images/screen-01.jpg" width="350" border="0">
-  <img align="center" src="/.github/images/screen-02.jpg" width="350" border="0">
-  <img align="center" src="/.github/images/screen-03.jpg" width="350" border="0">
+  <img align="center" src="/.github/screen-01.jpg" width="350" border="0">
+  <img align="center" src="/.github/screen-02.jpg" width="350" border="0">
+  <img align="center" src="/.github/screen-03.jpg" width="350" border="0">
 </p>
 
 # :postbox: Get in touch to me
