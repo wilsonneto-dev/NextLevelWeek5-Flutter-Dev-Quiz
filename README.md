@@ -20,8 +20,7 @@
 
 # :postbox: Get in touch to me
 
-<b>Que tal acompanhar live codings de projetos reais ao vivo?</b><br />
-Segue lá na twitch: <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
+**Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
 
 **E-mail:** hi@wilsonneto.com.br
 
