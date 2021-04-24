@@ -10,7 +10,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz?style=flat-square)
 
-> Dev Quiz is a simple Quiz app with Flutter builded in the last Rocketseat Next Level week
+> Dev Quiz is a simple Quiz app with Flutter built in the last Rocketseat Next Level week
 
 <p align="center">
   <img align="center" src="/.github/screen-01.jpg" width="300" border="0">
