@@ -1,3 +1,8 @@
+<p align="center">
+  <b>Que tal acompanhar live codings de projetos reais ao vivo?</b><br />
+  Segue lá na twitch: <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
+</p>
+
 # Next Level Week - Dev Quiz (NLW)
 
 [![Author](https://img.shields.io/badge/author-WilsonNetoDev-AD1256?style=flat-square)](https://github.com/wilsonneto-dev)
@@ -14,6 +19,9 @@
 </p>
 
 # :postbox: Get in touch to me
+
+<b>Que tal acompanhar live codings de projetos reais ao vivo?</b><br />
+Segue lá na twitch: <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
 
 **E-mail:** hi@wilsonneto.com.br
 
