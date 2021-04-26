@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Que tal acompanhar live codings de projetos reais ao vivo? (Seg ~ Sex às 21h)</b><br />
+  <b>Que tal acompanhar live codings de projetos reais ao vivo?</b><br />
   Segue lá na twitch: <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
 </p>
 
